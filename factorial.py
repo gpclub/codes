@@ -1,4 +1,4 @@
-#팩토리얼 계산기 - 임정훈
+# 팩토리얼 계산기 - 임정훈
 n = (int) (input("Input : "))
 def factorial(n):
 	if n == 0:
